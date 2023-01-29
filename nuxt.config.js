@@ -8,7 +8,7 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     titleTemplate: '%s',
-    title: 'MovieHub',
+    title: 'malikhain',
     htmlAttrs: {
       lang: 'en',
     },
@@ -58,7 +58,7 @@ export default {
   vuetify: {
     customVariables: [ '~/assets/variables.scss' ],
     theme: {
-      dark: true,
+      dark: false,
       themes: {
         dark: {
           primary: colors.blue.darken2,

@@ -1,10 +1,10 @@
-# moviehub-nuxt-vuetify
+# malikhain website
 
 <!-- WEBSITE SCREENSHOT -->
-![Website Screen Shot](home.png)
+<!-- ![Website Screen Shot](home.png)
 ![Website Screen Shot](movies.png)
 ![Website Screen Shot](movie.png)
-![Website Screen Shot](search.png)
+![Website Screen Shot](search.png) -->
 
 ## Integration with moviedb api
 * Create account on https://www.themoviedb.org

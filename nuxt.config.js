@@ -78,4 +78,14 @@ export default {
   build: {
     standalone: true,
   },
+
+  generate: {
+    dir: 'docs', // docs/ instead of dist/
+    subFolders: false, // HTML files are generated according to the route path
+    fallback: '404.html',
+  },
+
+  router: {
+    base: '/malikhain/',
+  },
 };

@@ -1,0 +1,4 @@
+// add text-space-1 to text-space-100
+@for $size from 0 through 100 {
+  .text-space-#{$size} { letter-spacing: #{$size}px; }
+}

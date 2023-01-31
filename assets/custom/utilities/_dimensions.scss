@@ -1,0 +1,5 @@
+// add vh-1 to vh-100 and vw-1 to vw-100
+@for $size from 0 through 100 {
+  .vh-#{$size} { height: #{$size}vh; }
+  .vw-#{$size} { height: #{$size}vw; }
+}
